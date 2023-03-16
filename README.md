@@ -1,5 +1,5 @@
 # Projetos
-<h4> Aqui está localizado todos os projetos que criei para desenvolvimento pessoal com as linguagens de programação:
+<h4> Aqui estão localizados todos os projetos que criei para desenvolvimento pessoal com as linguagens de programação:
 <h4>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
